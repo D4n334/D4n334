@@ -12,19 +12,19 @@
 <p align="center">— Bill Wurtz</p>
 
 
-## 💀 About Me
+## About Me
 - 🎓 Bachelor’s Degree in Software Engineering  
 - 💻 Passionate about automation—sometimes I spend more time automating a task than it would take to do it manually, but it’s always worth it!  
 - 🛠️ Most commonly working with **Python** (API development, automation, scripts) and **JavaScript**  
 - 🌱 Always learning  
 
-## 🌟 Favorite Project
+## Favorite Project
 
 **Biometrics Registration App**  
 Built with **C#** and **Python** on the backend  
 > A robust solution for biometric data registration, blending desktop and backend technologies for accuracy and efficiency.
 
-## 🧰 Skills & Tools
+## Skills & Tools
 
 - Python (APIs, Automation, Scripting)  
 - JavaScript  
