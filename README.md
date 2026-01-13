@@ -4,7 +4,7 @@
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWRqdDBqaGxnMGdsOWh2NnZvZXQxdnY4aW5paXN6Z3g2Y25ndW96eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/IhO6ksgdk31JxbbFLA/giphy.gif" alt="meu gif" />
 </p>
 
-<p align= "center">Like everyone else here, I’m passionate about the internet—how it’s shaped us, how it works, and the amazing things you can build with just ones and zeros.</p>
+<p align= "center">Like everyone else here, I’m passionate about the internet how it’s shaped us, how it works, and the amazing things you can build with just ones and zeros.</p>
 
 <p align="center">
   <em>"Let's invent a thing inventor," said the thing inventor inventor, after being invented by a thing inventor."</em>
@@ -41,4 +41,4 @@ Built with **C#** and **Python** on the backend
 
 ---
 
-_“Automate the boring stuff—even if it takes longer than doing it manually!”_  
+_“Automate the boring stuff even if it takes longer than doing it manually!”_  
