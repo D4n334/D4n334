@@ -14,7 +14,7 @@
 
 ## About Me
 - 🎓 Bachelor’s Degree in Software Engineering  
-- 💻 Passionate about automation—sometimes I spend more time automating a task than it would take to do it manually, but it’s always worth it!  
+- 💻 Passionate about automation sometimes I spend more time automating a task than it would take to do it manually, but it’s always worth it!  
 - 🛠️ Most commonly working with **Python** (API development, automation, scripts) and **JavaScript**  
 - 🌱 Always learning  
 
